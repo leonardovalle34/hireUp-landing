@@ -1028,7 +1028,7 @@ function Footer() {
         <div className="border-t border-white/10 pt-8 text-center text-sm text-blue-200/30">
           <p>
             © {new Date().getFullYear()} HireUp. Todos os direitos reservados.
-            Feito com ❤️ no Brasil.
+            Feito com ❤️ no Brasil1.
           </p>
         </div>
       </div>
